@@ -1,6 +1,6 @@
 class MoonController < ApplicationController
   def date
-@helloworld = "Hello!"
+@helloworld = "Hello! World!"
 
   end
 end
